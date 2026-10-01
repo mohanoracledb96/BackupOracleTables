@@ -3,7 +3,7 @@
 
 ## Description
 
-Backup all tables from an oracle database to .xlsx-files in a local folder. This tool can be usefull if you want to do a local backup from all tables of a database or you just want to have all tables in a local directory.
+Backup all tables from an oracle database to .xlsx-files in a local folder. This tool can be usefull if you want to do a local backup from all tables of a database or you just want to have all tables in a local directory..
 
 ## Usage
 
